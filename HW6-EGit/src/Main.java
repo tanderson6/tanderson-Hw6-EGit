@@ -7,5 +7,4 @@ public class Main extends SupportClass {
 		System.out.print("Right now it is: ");
 		System.out.println(getDate());
 	}
-
 }

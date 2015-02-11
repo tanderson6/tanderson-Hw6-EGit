@@ -7,5 +7,4 @@ public class SupportClass {
 		Date now = new Date();
 		return now;
 	}
-	
 }
